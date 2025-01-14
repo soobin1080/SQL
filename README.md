@@ -1,2 +1,2 @@
 # SQL
-SQL 공부
+SQL 공부를 위한 REPOSITORY
