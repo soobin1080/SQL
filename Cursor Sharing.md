@@ -1,4 +1,4 @@
-#커서 공유
+# 커서 공유
 ### 1. 커서란?
        1) 공유 커서(shared cursor) : 라이브러리 캐시에 공유돼있는 Shared SQL Area
        2) 세션 커서(session cursor) : Private SQL Area 에 저장된 커서
